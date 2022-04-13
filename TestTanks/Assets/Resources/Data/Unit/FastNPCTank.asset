@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb4819b11ee2754b9a410a36b95ccf3, type: 3}
+  m_Name: FastNPCTank
+  m_EditorClassIdentifier: 
+  _maxHealth: 30
+  _protection: {fileID: 11400000, guid: 256c18f33b2f5e2498a0f36401060ff1, type: 2}
+  _speed: {fileID: 11400000, guid: d4ff9b3074acefd40a5cb9f3eb021390, type: 2}
+  _rotateSpeed: {fileID: 11400000, guid: bf67826236a1a354f91f93d6d9981620, type: 2}

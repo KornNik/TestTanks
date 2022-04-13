@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb4819b11ee2754b9a410a36b95ccf3, type: 3}
+  m_Name: BasePlayerTank
+  m_EditorClassIdentifier: 
+  _maxHealth: 50
+  _protection: {fileID: 11400000, guid: b272a931707124f42bcdda146d655144, type: 2}
+  _speed: {fileID: 11400000, guid: a8e48ae4033bff6498908e457459f840, type: 2}
+  _rotateSpeed: {fileID: 11400000, guid: 5c63472a34ad2f84fb2f6bad42cfe4b8, type: 2}
