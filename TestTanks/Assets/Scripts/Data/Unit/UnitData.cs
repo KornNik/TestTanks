@@ -9,6 +9,7 @@ namespace Scripts.Data.Unit
         #region Fields
 
         [SerializeField] private float _maxHealth;
+        [SerializeField] private float _timeToRespawn;
         [SerializeField] private Stat _protection;
         [SerializeField] private Stat _speed;
         [SerializeField] private Stat _rotateSpeed;
@@ -16,7 +17,6 @@ namespace Scripts.Data.Unit
         public event Action Death;
 
         private float _currentHealth;
-        private float _timeToRespawn;
 
         #endregion
 

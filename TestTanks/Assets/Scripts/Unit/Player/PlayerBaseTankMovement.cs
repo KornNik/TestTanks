@@ -22,7 +22,7 @@ namespace Scripts.Behaviour.Unit
         #endregion
 
 
-        #region IMotor
+        #region Methods
 
         public override void Move(float movingInput)
         {

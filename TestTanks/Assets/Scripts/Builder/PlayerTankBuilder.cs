@@ -6,8 +6,6 @@ namespace Scripts.Builder
 {
     class PlayerTankBuilder : TankBuilder
     {
-
-
         #region ClassLifeCycle
 
         public PlayerTankBuilder(Vector3 tankSpawnPosition) : base(tankSpawnPosition)

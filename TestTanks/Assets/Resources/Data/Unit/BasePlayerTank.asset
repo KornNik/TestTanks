@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: BasePlayerTank
   m_EditorClassIdentifier: 
   _maxHealth: 50
+  _timeToRespawn: 4
   _protection: {fileID: 11400000, guid: b272a931707124f42bcdda146d655144, type: 2}
   _speed: {fileID: 11400000, guid: a8e48ae4033bff6498908e457459f840, type: 2}
   _rotateSpeed: {fileID: 11400000, guid: 5c63472a34ad2f84fb2f6bad42cfe4b8, type: 2}

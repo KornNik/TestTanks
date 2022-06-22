@@ -1,8 +1,4 @@
-﻿using System;
-using UnityEngine;
-using Scripts.Behaviour.Guns;
-
-namespace Scripts.Behaviour.Unit
+﻿namespace Scripts.Behaviour.Unit
 {
     class PlayerBaseTankBehaviour : UnitBehaviour
     {

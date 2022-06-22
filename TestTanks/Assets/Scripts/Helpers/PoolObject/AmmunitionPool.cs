@@ -10,13 +10,6 @@ namespace Scripts.Helpers.PoolObject
 {
     sealed class AmmunitionPool : PoolObjects<AmmunitionType>
     {
-        #region Fields
-
-        
-
-        #endregion
-
-
         #region ClassLifeCycle
 
         public AmmunitionPool(int capacityPool, Transform poolTransform) : base (capacityPool, poolTransform)

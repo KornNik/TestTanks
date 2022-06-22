@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Weapon\Weaponry.cs" />
     <Compile Include="Assets\Scripts\Weapon\BaseProjectileWeapon.cs" />
     <Compile Include="Assets\Scripts\Helpers\Types\LevelTypes.cs" />
+    <Compile Include="Assets\Scripts\Helpers\Managers\LayersManager.cs" />
     <Compile Include="Assets\Scripts\Helpers\Managers\NavMeshAreasManager.cs" />
     <Compile Include="Assets\Scripts\Controller\LevelController.cs" />
     <Compile Include="Assets\Scripts\Unit\Player\PlayerBaseTankMovement.cs" />
@@ -85,7 +86,6 @@
     <Compile Include="Assets\Scripts\Helpers\AssetPath\PlayerTankAssetPath.cs" />
     <Compile Include="Assets\Scripts\Interface\IDamager.cs" />
     <Compile Include="Assets\Scripts\Helpers\Types\PlayerTankTypes.cs" />
-    <Compile Include="Assets\Scripts\CamerBehaviour.cs" />
     <Compile Include="Assets\Scripts\Helpers\Types\DataTypes.cs" />
     <Compile Include="Assets\Scripts\Data\Level\LevelData.cs" />
     <Compile Include="Assets\Scripts\Interface\IDamageable.cs" />
@@ -102,7 +102,6 @@
     <Compile Include="Assets\Scripts\Helpers\Managers\KeyManager.cs" />
     <Compile Include="Assets\Scripts\Helpers\Patrol.cs" />
     <Compile Include="Assets\Scripts\Builder\PlayerTankBuilder.cs" />
-    <Compile Include="Assets\Scripts\Helpers\Managers\LayersManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: BaseNPCTank
   m_EditorClassIdentifier: 
   _maxHealth: 50
+  _timeToRespawn: 4
   _protection: {fileID: 11400000, guid: 843161fc8b05d7940ae2a08124747081, type: 2}
   _speed: {fileID: 11400000, guid: 3dfe40b1635d8b84f9ac892e7d24ad8f, type: 2}
   _rotateSpeed: {fileID: 11400000, guid: b7f2a11bbbed25844b07d2f0c2f78fce, type: 2}

@@ -53,7 +53,6 @@ namespace Scripts.Behaviour.Guns
 
         protected virtual void DrawLaser(Vector3 endLaserPosition)
         {
-
             _laserRenderer.SetPosition(0, _barrel.position);
             _laserRenderer.SetPosition(1, endLaserPosition);
             StartCoroutine(nameof(LaserEnableCoroutine));

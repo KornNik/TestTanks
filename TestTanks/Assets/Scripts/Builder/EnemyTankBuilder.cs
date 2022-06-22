@@ -11,6 +11,7 @@ namespace Scripts.Builder
 
         #endregion
 
+
         #region ClassLifeCycle
 
         public EnemyTankBuilder(Vector3 tankSpawnPosition) : base(tankSpawnPosition)
@@ -20,6 +21,7 @@ namespace Scripts.Builder
         }
 
         #endregion
+
 
         #region IEngineer
 
